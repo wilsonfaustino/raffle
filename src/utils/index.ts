@@ -4,7 +4,7 @@ const quotes = [
   "👀 Verificando vagas pra junin / sandy no Linkedinho",
   "🚨 Aplicando pra 324345 vagas na Gupy",
   "☕ Fazendo um cafézin, aceita?",
-  "🪲 Enumarando bugs em produção",
+  "🪲 Enumerando bugs em produção",
 ];
 
 export function loadingAnimation() {
