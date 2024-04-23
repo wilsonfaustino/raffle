@@ -3,7 +3,8 @@
   "module": "main.ts",
   "type": "module",
   "scripts": {
-    "start": "bun src/main.ts"
+    "start": "bun src/main.ts",
+    "lint": "eslint --ext .ts src"
   },
   "devDependencies": {
     "@rocketseat/eslint-config": "^2.2.2",
